@@ -28,7 +28,7 @@ const Gallery = () => {
   });
 
   return (
-    <div style={{ maxWidth: '98vh', maxHeigth: '98vh', margin: 'auto' }}>
+    <div style={{ maxWidth: '98vh', maxHeigth: '98vw', margin: 'auto' }}>
       <ImageGallery useBrowserFullscreen='true' thumbnailPosition='left' items={images}  style={{ width: '45em', heigth: '50em', margin: 'auto' }} />
     </div>
   );
