@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/guinea-pigs/precache-manifest.4a51236f78c018ca8a50cb3834148003.js"
+  "/guinea-pigs/precache-manifest.a9d3d42e4d033b652b84a1d34b23bb7b.js"
 );
 
 self.addEventListener('message', (event) => {
