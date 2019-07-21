@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/guinea-pigs/static/css/main.0c10d36d.chunk.css",
+    "main.css": "/guinea-pigs/static/css/main.c448c1d5.chunk.css",
     "main.js": "/guinea-pigs/static/js/main.ff5a6be3.chunk.js",
     "main.js.map": "/guinea-pigs/static/js/main.ff5a6be3.chunk.js.map",
     "runtime~main.js": "/guinea-pigs/static/js/runtime~main.e43f92c1.js",
@@ -9,9 +9,9 @@
     "static/js/2.aee3da3c.chunk.js": "/guinea-pigs/static/js/2.aee3da3c.chunk.js",
     "static/js/2.aee3da3c.chunk.js.map": "/guinea-pigs/static/js/2.aee3da3c.chunk.js.map",
     "index.html": "/guinea-pigs/index.html",
-    "precache-manifest.d1a26b3c01b9e52357c0505eb0f9240d.js": "/guinea-pigs/precache-manifest.d1a26b3c01b9e52357c0505eb0f9240d.js",
+    "precache-manifest.4a51236f78c018ca8a50cb3834148003.js": "/guinea-pigs/precache-manifest.4a51236f78c018ca8a50cb3834148003.js",
     "service-worker.js": "/guinea-pigs/service-worker.js",
     "static/css/2.f74a8007.chunk.css.map": "/guinea-pigs/static/css/2.f74a8007.chunk.css.map",
-    "static/css/main.0c10d36d.chunk.css.map": "/guinea-pigs/static/css/main.0c10d36d.chunk.css.map"
+    "static/css/main.c448c1d5.chunk.css.map": "/guinea-pigs/static/css/main.c448c1d5.chunk.css.map"
   }
 }
