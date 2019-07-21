@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/guinea_pigs/static/css/main.d6aa9b15.chunk.css",
-    "main.js": "/guinea_pigs/static/js/main.b3177bdb.chunk.js",
-    "main.js.map": "/guinea_pigs/static/js/main.b3177bdb.chunk.js.map",
-    "runtime~main.js": "/guinea_pigs/static/js/runtime~main.11c40913.js",
-    "runtime~main.js.map": "/guinea_pigs/static/js/runtime~main.11c40913.js.map",
-    "static/css/2.f74a8007.chunk.css": "/guinea_pigs/static/css/2.f74a8007.chunk.css",
-    "static/js/2.aee3da3c.chunk.js": "/guinea_pigs/static/js/2.aee3da3c.chunk.js",
-    "static/js/2.aee3da3c.chunk.js.map": "/guinea_pigs/static/js/2.aee3da3c.chunk.js.map",
-    "index.html": "/guinea_pigs/index.html",
-    "precache-manifest.e9931fb36e7e0cff5287bfac9798d2ea.js": "/guinea_pigs/precache-manifest.e9931fb36e7e0cff5287bfac9798d2ea.js",
-    "service-worker.js": "/guinea_pigs/service-worker.js",
-    "static/css/2.f74a8007.chunk.css.map": "/guinea_pigs/static/css/2.f74a8007.chunk.css.map",
-    "static/css/main.d6aa9b15.chunk.css.map": "/guinea_pigs/static/css/main.d6aa9b15.chunk.css.map"
+    "main.css": "/guinea-pigs/static/css/main.0c10d36d.chunk.css",
+    "main.js": "/guinea-pigs/static/js/main.ff5a6be3.chunk.js",
+    "main.js.map": "/guinea-pigs/static/js/main.ff5a6be3.chunk.js.map",
+    "runtime~main.js": "/guinea-pigs/static/js/runtime~main.e43f92c1.js",
+    "runtime~main.js.map": "/guinea-pigs/static/js/runtime~main.e43f92c1.js.map",
+    "static/css/2.f74a8007.chunk.css": "/guinea-pigs/static/css/2.f74a8007.chunk.css",
+    "static/js/2.aee3da3c.chunk.js": "/guinea-pigs/static/js/2.aee3da3c.chunk.js",
+    "static/js/2.aee3da3c.chunk.js.map": "/guinea-pigs/static/js/2.aee3da3c.chunk.js.map",
+    "index.html": "/guinea-pigs/index.html",
+    "precache-manifest.d1a26b3c01b9e52357c0505eb0f9240d.js": "/guinea-pigs/precache-manifest.d1a26b3c01b9e52357c0505eb0f9240d.js",
+    "service-worker.js": "/guinea-pigs/service-worker.js",
+    "static/css/2.f74a8007.chunk.css.map": "/guinea-pigs/static/css/2.f74a8007.chunk.css.map",
+    "static/css/main.0c10d36d.chunk.css.map": "/guinea-pigs/static/css/main.0c10d36d.chunk.css.map"
   }
 }
