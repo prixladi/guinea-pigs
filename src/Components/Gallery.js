@@ -19,7 +19,7 @@ const Gallery = () => {
 
   if (!gpData) return <div />;
 
-  const images = gpData.pictures.map((value) => {
+  const images = gpData.pictures.map(value => {
     return {
       original: `./images/${value.name}`,
       thumbnail: `./images/${value.name}`,
@@ -28,8 +28,12 @@ const Gallery = () => {
   });
 
   return (
-    <div style={{ maxWidth: '98vh', maxHeigth: '98vw', margin: 'auto' }}>
-      <ImageGallery useBrowserFullscreen='true' thumbnailPosition='left' items={images}  style={{ width: '45em', heigth: '50em', margin: 'auto' }} />
+    <div className='container'>
+      <ImageGallery
+        useBrowserFullscreen='true'
+        thumbnailPosition='left'
+        items={images}
+      />
     </div>
   );
 };
