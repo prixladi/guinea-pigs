@@ -1,0 +1,42 @@
+{
+  "main": {
+    "name": "Broskvicka",
+    "description": "Broskvička was a guinea pig who died 20.7.2019. She was the smartest, kindest and most beautiful guinea pig who ever lived. Her favourite food was cucumber."
+  },
+  "gallery": {
+    "pictures": [
+      {
+        "name": "broskvicka-garden.jpg",
+        "description": "Guinea pig Broskvička in the garden."
+      },
+      {
+        "name": "broskvicka-garden1.jpg",
+        "description": "Guinea pig Broskvička in the garden."
+      },
+      {
+        "name": "broskvicka-garden2.jpg",
+        "description": "Guinea pig Broskvička in the garden."
+      },
+      {
+        "name": "broskvicka-drinking.jpg",
+        "description": "Guinea pig Broskvička drinking."
+      },
+      {
+        "name": "broskvicka-looking.jpg",
+        "description": "Guinea pig Broskvička looking up for some other food after eating melone."
+      },
+      {
+        "name": "broskvicka-looking1.jpg",
+        "description": "Guinea pig Broskvička looking up for some other food after eating melone."
+      },
+      {
+        "name": "broskvicka-closeup.jpg",
+        "description": "Guinea pig Broskvička sniffing the camera."
+      },
+      {
+        "name": "broskvicka-eating.jpg",
+        "description": "Guinea pig Broskvička doing nom nom."
+      }
+    ]
+  }
+}
